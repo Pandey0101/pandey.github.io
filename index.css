@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    font-family: 'IM Fell English SC', serif;
+
+
+}
+h2{
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    align-items: center;
+     margin-top: 11%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .pagetwo{
+      color: white;
+  }
+
+  .btn{
+      color: white;
+      background-color: rgb(250, 44, 8);
+      border: 1px solid black;
+      border-radius: 50px;
+      margin-right: auto;
+      margin-left: auto;
+      padding: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      
+  }
+a{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.para{
+    color: white;
+}
+.header{
+    height: 60%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12%;
+    margin-left: 25%;
+}
+span{
+    color: white;
+   
+}
+
